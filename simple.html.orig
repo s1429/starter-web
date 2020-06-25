@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			this is going to be solved now....siya is my girl
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Siya Ikhar </p>
+=======
+			this is for git complete course
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Sanket Ikhar </p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
